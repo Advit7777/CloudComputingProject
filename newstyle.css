@@ -1,0 +1,33 @@
+img{
+  max-width: 100%;
+  height: auto;
+  background: lightblue;
+  background: radial-gradient(white 30%, lightblue 70%);
+}
+
+.fa-star,
+.fa-star-half{
+  color: yellowgreen;
+  padding: 3% 0;
+}
+
+
+.img1{
+  max-width: 144px;
+}
+
+.img2{
+  max-width: 236px;
+}
+
+.img3{
+  max-width: 188px;
+}
+
+.img4{
+  max-width: 150px;
+}
+
+.img5{
+  max-width: 126px;
+}
